@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"به دلیل اعتراض های پیش اومده  هر لحظه ممکنه دسترسی شما قطع بشه ، جهت امن کردن اتصال خود این وی پی ان رو استفاده کنید . ♥️","dismissable":false,"dismissTxt":"رد","okTxt":" دانلود برنامه 🟢","okUrl":"https://play.google.com/store/apps/details?id=co.vpn.barzin2","status":"ok"}
+.
